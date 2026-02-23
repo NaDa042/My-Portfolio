@@ -54,8 +54,7 @@ a:hover{
     align-items:center;
     justify-content:space-between;
     min-height:100vh;
-    padding:60px 8%;
-    gap:40px;
+    gap:20px;
 }
 
 .text h1{
@@ -150,6 +149,7 @@ h2{
 #contactMe ul{
     list-style:none;
 }
+
 
 
 
